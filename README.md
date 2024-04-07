@@ -49,7 +49,7 @@ The goal of this project was to construct a simulated, secure network environmen
 - Expanded knowledge of key Windows event codes and the MITRE ATT&CK Framework, applying this to the threat simulation and detection processes.
 
 
-## Conclusion:
+# Conclusion:
 The key takeaways from this project reinforce the notion that security is not a static field; it requires constant learning and adaptation. Tools and strategies must be continually evaluated and tested against emerging threats. The use of Hydra illustrated the critical need to select the right tools for specific scenarios, which could mean the difference between a breached and a secure system.
 
 Moreover, this project showcased that practical, hands-on projects serve as excellent learning conduits, significantly enhancing one's understanding and skills in cybersecurity.
