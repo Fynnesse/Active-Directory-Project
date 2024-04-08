@@ -1,0 +1,7 @@
+
+## PowerShell execution policy to Bypass for the current user, allowing them to run any PowerShell scripts without restrictions or warnings:
+Set-ExecutionPolicy Bypass CurrentUser
+
+## Atomic Red Team Powershell Command
+https://raw.githubusercontent.com/redcanaryco/invoke-atomicredteam/master/install-atomicredteam.ps1. -UseBasicParsing);
+Install-AtomicRedTeam -getAtomics
